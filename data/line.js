@@ -1,0 +1,1 @@
+var lineJson = {"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#e01a1a","marker-size":"large","marker-symbol":"marker-stroked","Education":12,"Gender":"Male","current wage":300,"Income":7000,"Age":38,"expected wage":600,"caste":"Gen"},"geometry":{"type":"Point","coordinates":[80.85937499999999,27.371767300523047]}}]}
